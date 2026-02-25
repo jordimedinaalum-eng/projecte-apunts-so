@@ -1,4 +1,4 @@
-# Els meus apunts de Sistemes Operatius - JORDI
+# Els meus apunts de Sistemes Operatius - Jordi
 ## Descripció 
 Aquest repositori conté l’essència dels sistemes Operatius de 1r ASIX
 
